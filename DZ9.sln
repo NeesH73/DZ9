@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tymakov10", "Tymakov10\Tymakov10.csproj", "{355C9E4B-7327-4E02-B41C-0FEE459F2E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadacha", "zadacha\zadacha.csproj", "{11B5920E-27A5-420C-A1D3-16D5984B1CB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355C9E4B-7327-4E02-B41C-0FEE459F2E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355C9E4B-7327-4E02-B41C-0FEE459F2E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355C9E4B-7327-4E02-B41C-0FEE459F2E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355C9E4B-7327-4E02-B41C-0FEE459F2E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B5920E-27A5-420C-A1D3-16D5984B1CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B5920E-27A5-420C-A1D3-16D5984B1CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B5920E-27A5-420C-A1D3-16D5984B1CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B5920E-27A5-420C-A1D3-16D5984B1CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E408F140-BDED-4A65-A880-37E3AFCDDB8F}
+	EndGlobalSection
+EndGlobal
